@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # Script to add SSH public key to authorized_keys
